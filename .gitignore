@@ -1,1 +1,4 @@
-*.jsp
+   # Ignore all .jsp files except those in the 'D:\Thayalan\Live' directory
+   *.jsp
+   !/D:/Thayalan/Live/*.jsp
+   
